@@ -74,7 +74,7 @@ section {
     background-color: rgb(0,0,255);
     box-shadow: 0 0 20px hsla(240, 99%, 50%, 1);
 }
-.darkish-blue {
+.chathams-blue {
 background-color: #28546c;
 box-shadow: 0 0 20px hsla(201, 46%, 29%,1);
 }
@@ -82,36 +82,47 @@ box-shadow: 0 0 20px hsla(201, 46%, 29%,1);
 background-color: #76158e;
 box-shadow: 0 0 20px hsla(288, 73%,32%,1);
 }
-.six {
+.bittersweet {
+background-color: #ff5c5c;
+box-shadow: 0 0 20px hsla(0, 100%,68%,1);
+}
+.sea-pink {
+background-color: #db8080;
+box-shadow: 0 0 20px hsla(0, 55.8%,68%,1);
+}
+.atomic-tangerine{
+background-color: #fd935d;
+box-shadow: 0 0 20px hsla(20,97.6%,67.8%,1);
+}
+.medium-purple{
+background-color: #8f70ea;
 
 }
-.seven {
+.cornflower-blue{
+background-color: #7099ea;
 
 }
-.eight{
+.mindaro{
+background-color:#cfea70;
 
 }
-.nine{
+.pastel-green{
+background-color:#70ea8c;
 
 }
-.ten{
+.turqoise-blue{
+background-color:#70dbea;
 
 }
-.eleven{
+.persian-pink{
+background-color:#ea70b9;
 
 }
-.twelve{
+.la-palma{
+background-color: #42903c;
 
 }
-.thirteen{
-    
-}
-.fourteen{
-
-}
-.fifteen{
-
-}
-.sixteen{
+.goldenrod{
+background-color:#cfd463;
 
 }
