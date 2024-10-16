@@ -63,20 +63,24 @@ section {
 
 .red {
     background-color: rgb(255,0,0);
+    box-shadow: 0 0 20px hsla(0, 100%, 50%, 1);
 }
-.blue {
-    background-color: rgb(0,150,0);
-
-}
-
 .green {
+    background-color: rgb(0,150,0);
+    box-shadow: 0 0 20px hsla(120, 100%, 25%, 1);
+}
+
+.blue {
     background-color: rgb(0,0,255);
+    box-shadow: 0 0 20px hsla(240, 99%, 50%, 1);
 }
-.four {
-
+.darkish-blue {
+background-color: #28546c;
+box-shadow: 0 0 20px hsla(201, 46%, 29%,1);
 }
-.five {
-
+.shaded-purple {
+background-color: #76158e;
+box-shadow: 0 0 20px hsla(288, 73%,32%,1);
 }
 .six {
 
