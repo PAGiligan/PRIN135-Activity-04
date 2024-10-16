@@ -13,6 +13,12 @@ h1 {
     font-size: 2rem;
 }
 
+p {
+    position: relative;
+    line-height: 25px;
+    z-index: 20;
+  }
+
 section {
     margin: 16px 0;
     display: flex;
@@ -96,33 +102,33 @@ box-shadow: 0 0 20px hsla(20,97.6%,67.8%,1);
 }
 .medium-purple{
 background-color: #8f70ea;
-
+box-shadow: 0 0 20px hsla(255,74.4%,67.8%,1)
 }
 .cornflower-blue{
 background-color: #7099ea;
-
+box-shadow: 0 0 20px hsla(220,74.4%,67.8%,1)
 }
 .mindaro{
 background-color:#cfea70;
-
+box-shadow: 0 0 20px hsla(73,74.4%,67.8%,1)
 }
 .pastel-green{
 background-color:#70ea8c;
-
+box-shadow: 0 0 20px hsla(134,74.4%,67.8%,1)
 }
 .turqoise-blue{
 background-color:#70dbea;
-
+box-shadow: 0 0 20px hsla(187,74.4%,67.8%,1)
 }
 .persian-pink{
 background-color:#ea70b9;
-
+box-shadow: 0 0 20px hsla(324,74.4%,67.8%,1)
 }
 .la-palma{
 background-color: #42903c;
-
+box-shadow: 0 0 20px hsla(116,41.2%,40%,1)
 }
 .goldenrod{
 background-color:#cfd463;
-
+box-shadow: 0 0 20px hsla(63,56.8%,61%,1)
 }
